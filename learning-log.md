@@ -23,3 +23,8 @@ I'm learning Git and version control to track my work.
 - [GitHub Docs](https://docs.github.com) - Official GitHub documentation
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
 - [Learn Git Branching](https://learngitbranching.js.org/) - The most visual and interactive way to learn Git on the web -- My personal favorite !
+
+## Next Steps
+- Learn about rebasing and interactive rebase
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
